@@ -1,0 +1,29 @@
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Basic CRUD Operations.exe.config
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Basic CRUD Operations.exe
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Basic CRUD Operations.pdb
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic_CRUD_Operations.Form1.resources
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic_CRUD_Operations.Properties.Resources.resources
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic CRUD Operations.csproj.GenerateResource.cache
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic CRUD Operations.exe
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic CRUD Operations.pdb
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic_CRUD_Operations.Create.resources
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic_CRUD_Operations.Delete.DeleteID.resources
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic CRUD Operations.csprojAssemblyReference.cache
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic_CRUD_Operations.Update.UpdateID.resources
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic_CRUD_Operations.Update.Update.resources
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Basic CRUD Operations.exe.manifest
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Basic CRUD Operations.application
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic CRUD Operations.exe.manifest
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\obj\Debug\Basic CRUD Operations.application
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Create\Create.resx
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Delete\DeleteID.resx
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Update\Update.resx
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Update\UpdateID.resx
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Create\Create.cs
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Create\Create.Designer.cs
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Delete\DeleteID.cs
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Delete\DeleteID.Designer.cs
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Update\Update.cs
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Update\Update.Designer.cs
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Update\UpdateID.cs
+C:\Users\Yash\source\repos\Basic CRUD Operations\Basic CRUD Operations\bin\Debug\Update\UpdateID.Designer.cs
